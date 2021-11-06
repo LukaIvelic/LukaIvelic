@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @LukaIvelic
-- 👀 I’m interested in Programming!
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on /
-- 📫 How to reach me /
+Hi, I’m @LukaIvelic
+I’m interested in Programming!
+I’m currently learning C#
 
 <!---
 LukaIvelic/LukaIvelic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
