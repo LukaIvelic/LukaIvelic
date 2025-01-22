@@ -17,7 +17,7 @@ Problem Solving&nbsp;&nbsp;|&nbsp;&nbsp;Critical Thinking&nbsp;&nbsp;|&nbsp;&nbs
 ##
 
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaIvelic&layout=compact)](https://github.com/deepajarout)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaIvelic&layout=compact)](https://github.com/LukaIvelic)
 
 
 <!--
