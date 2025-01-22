@@ -6,41 +6,12 @@ I like to design & develop frontend solutions. To have a more in-depth look at m
 - I’m currently learning Angular 18
 
 ## Skills
-<img src="profile-icons/Frame 48.png" alt="LinkedIn" height="50">
-<div style="display:flex; gap:1rem">
-  <img src="profile-icons/Frame 49.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 50.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 51.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 52.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 53.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 54.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 55.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 56.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 57.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 58.png" alt="LinkedIn" height="40">
-</div>
-<br><br/>
-<img src="profile-icons/Frame 59.png" alt="LinkedIn" height="50">
-<div style="display:flex; gap:1rem">
-  <img src="profile-icons/Frame 70.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 71.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 72.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 73.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 74.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 75.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 76.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 77.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 78.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 79.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 80.png" alt="LinkedIn" height="40">
-</div>
-<br><br/>
-<img src="profile-icons/Frame 81.png" alt="LinkedIn" height="50">
-<div style="display:flex; gap:1rem">
-  <img src="profile-icons/Frame 82.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 83.png" alt="LinkedIn" height="40">
-  <img src="profile-icons/Frame 84.png" alt="LinkedIn" height="40">
-</div>
+### Software Development:
+C&nbsp;&nbsp;|&nbsp;&nbsp;C++&nbsp;&nbsp;|&nbsp;&nbsp;C#&nbsp;&nbsp;|&nbsp;&nbsp;XML&nbsp;&nbsp;|&nbsp;&nbsp;C# WPF MVVM&nbsp;&nbsp;|&nbsp;&nbsp;.NET Core&nbsp;&nbsp;|&nbsp;&nbsp;Window Forms&nbsp;&nbsp;|&nbsp;&nbsp;Java&nbsp;&nbsp;|&nbsp;&nbsp;SQL&nbsp;&nbsp;|&nbsp;&nbsp;SQL Server&nbsp;&nbsp;
+### Web Development:
+HTML&nbsp;&nbsp;|&nbsp;&nbsp;CSS&nbsp;&nbsp;|&nbsp;&nbsp;SASS&nbsp;&nbsp;|&nbsp;&nbsp;JavaScript&nbsp;&nbsp;|&nbsp;&nbsp;PHP&nbsp;&nbsp;|&nbsp;&nbsp;Node.js&nbsp;&nbsp;|&nbsp;&nbsp;Express.js&nbsp;&nbsp;|&nbsp;&nbsp;React.js&nbsp;&nbsp;|&nbsp;&nbsp;Next.js&nbsp;&nbsp;|&nbsp;&nbsp;Three.js&nbsp;&nbsp;|&nbsp;&nbsp;WebGL&nbsp;&nbsp;
+### Soft Skills:
+Problem Solving&nbsp;&nbsp;|&nbsp;&nbsp;Critical Thinking&nbsp;&nbsp;|&nbsp;&nbsp;Collaboration&nbsp;&nbsp; 
 
 ##
 
