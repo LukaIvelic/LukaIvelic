@@ -1,7 +1,6 @@
 <!--![banner](profile-content/banner.gif)-->
 ### Hi there 👋
-I am Luka Ivelić, a **Computer Science undergraduate**. While mastering my skills as a Software Engineer at the <a href="https://www.tvz.hr/en/">Zagreb University of Applied Sciences<a/>, 
-I like to design & develop frontend solutions. To have a more in-depth look at my profile, I suggest to look at my <a href="https://www.linkedin.com/in/luka-iveli%C4%87-b55074227/">LinkedIn<a/> or <a href="profile-content/ivelicluka_github_cv.pdf">resume<a/>.
+I am Luka Ivelić and I like to design & develop fullstack solutions. To have a more in-depth look at my profile, I suggest to look at my <a href="https://www.linkedin.com/in/luka-iveli%C4%87-b55074227/">LinkedIn<a/> or <a href="profile-content/ivelicluka_github_cv.pdf">resume<a/>.
 
 - I’m currently working on a:
   - **Fullstack Code Scanner App**
