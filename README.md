@@ -10,5 +10,6 @@ To have a more in-depth look at my profile, I suggest to look at my <a href="htt
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LukaIvelic&theme=summer&year=2025">
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaIvelic&size_weight=0.5&count_weight=0.5)
+![Repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LukaIvelic&theme=tokyonight)
+
 
