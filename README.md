@@ -9,5 +9,5 @@ I am Luka Ivelić and I like to design & develop fullstack solutions. To have a 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=LukaIvelic&theme=summer">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=LukaIvelic&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LukaIvelic&theme=summer">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LukaIvelic&theme=summer&year=2025">
 </picture>
