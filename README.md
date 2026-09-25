@@ -1,4 +1,3 @@
-#
 Hello – I'm Luka, a Full Stack Developer based in Croatia with a strong technical foundation, enthusiastic about creating modern solutions, learning new technologies and growing as a developer. 
 
 #
